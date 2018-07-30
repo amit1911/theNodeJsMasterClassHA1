@@ -38,5 +38,5 @@ const routes = {
 }
 
 server.listen(3000, function(){
-    console.log('The server is listening');
+    console.log('The server is listening on port 3000');
 });
